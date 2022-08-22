@@ -1,4 +1,5 @@
 # BETA:
+# :: Project discontinued ::
 ## This has only been tested with Xfce (Xubuntu), Unity (Ubuntu), GNOME, and KDE
 - Cinnamon and other Mint distros are also in the lineup, but aren't finished yet.
 - This has some querks, maybe, largely from Ubuntu and theming irregularities. (Some themes act funny, this auto-sets the least-buggy themes.)
